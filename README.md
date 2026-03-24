@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Shubham Prajapati
 # 💫 About Me:
-Me<br>I’m a passionate Full Stack Developer & Computer Science student focused on building scalable, modern, and AI-powered web applications. I enjoy transforming ideas into real-world solutions using clean code, creative UI, and efficient backend systems.<br>💻 What I Do<br>⚡ Build full-stack web apps using MongoDB, Express.js, React.js, Node.js<br>🎨 Design modern UI/UX with Tailwind CSS, Figma & animations (GSAP)<br>🤖 Develop AI-powered applications like chatbots and smart systems<br>📊 Create real-world solutions like E-commerce platforms & AI schedulers<br><br>📫 Connect With Me<br>📧 Email: shubham20053108@gmail.com<br>💼 Open to collaborations, internships, and freelance projects
+<br>I’m a passionate Full Stack Developer & Computer Science student focused on building scalable, modern, and AI-powered web applications. I enjoy transforming ideas into real-world solutions using clean code, creative UI, and efficient backend systems.<br>💻 What I Do<br>⚡ Build full-stack web apps using MongoDB, Express.js, React.js, Node.js<br>🎨 Design modern UI/UX with Tailwind CSS, Figma & animations (GSAP)<br>🤖 Develop AI-powered applications like chatbots and smart systems<br>📊 Create real-world solutions like E-commerce platforms & AI schedulers<br><br>📫 Connect With Me<br>📧 Email: shubham20053108@gmail.com<br>💼 Open to collaborations, internships, and freelance projects
 
 
 ## 🌐 Socials:
